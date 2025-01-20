@@ -1,0 +1,6 @@
+@PrivateManagementAPI_HostAddress = http://localhost:5098
+
+GET {{PrivateManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
